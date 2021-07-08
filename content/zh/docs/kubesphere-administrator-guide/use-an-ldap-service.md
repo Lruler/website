@@ -4,7 +4,7 @@ keywords: "LDAP, identity provider, external, authentication"
 description: "如何使用 LDAP 服务。"
 
 linkTitle: "使用 LDAP 服务"
-weight: 12000
+weight: 33000
 ---
 
 本文介绍如何使用 LDAP 服务作为外部身份提供程序，从而通过 LDAP 服务来认证用户。
