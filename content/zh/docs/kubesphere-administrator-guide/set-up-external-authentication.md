@@ -4,7 +4,7 @@ keywords: "LDAP, external, third-party, authentication"
 description: "如何在 KubeSphere 上配置外部认证。"
 
 linkTitle: "配置外部认证"
-weight: 12000
+weight: 13000
 ---
 
 本文介绍如何在 KubeSphere 中使用外部身份提供程序 (Identity Provider)，例如 LDAP 服务或活动目录 (Active Directory) 服务。
